@@ -9,7 +9,14 @@
 
 ###
 
-<p align="left">📊 Data Analyst | IT Governance & Strategy | Tech Enthusiast<br>I am a results-driven Data Analyst with a deep interest in the intersection of Data Governance and Information Technology. I don't just analyze numbers; I ensure they are accurate, secure, and compliant with organizational standards. My goal is to bridge the gap between technical data architecture and strategic business decision-making.</p>
+<p align="left">📊 Data Analyst | IT Governance & Strategy | Tech Enthusiast<br> 
+
+I am a **Data Analyst** dedicated to bridging the gap between complex IT infrastructures and strategic decision-making. My expertise lies in transforming raw data into actionable insights while ensuring every byte follows strict **Data Governance** and compliance standards.
+
+- 🛡️ **Governance Focused:** Passionate about Data Privacy, Quality, and Ethics (NDMO/GDPR frameworks).
+- 📈 **Data Driven:** Specialized in SQL, Python, and Power BI to build robust analytical models.
+- ⚙️ **IT Strategy:** Deep understanding of how information technology supports business scalability and risk management.
+- 💡 **Goal:** To build data ecosystems that are not only powerful but also secure, governed, and reliable.
 
 ###
 
