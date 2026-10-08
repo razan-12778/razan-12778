@@ -1,32 +1,102 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
-</div>
+# 👩‍💻 About Me
 
-<h1 align="center">Hi there 👋 I'm Razan</h1>
+### 📊 Data Engineer | Data & Analytics | IT Governance
 
-<h3 align="center">👩‍💻 Data Engineer | Data & Analytics | IT Governance</h3>
+I am an **IT graduate focused on Data Engineering**, passionate about building reliable data solutions and transforming data into meaningful insights for better decision-making.
 
-###
+Through my academic background, professional experience, and Data Engineering training, I have worked across the data lifecycle — from **data collection, cleaning, and transformation to analytics, orchestration, and scalable data processing**.
 
-<h3 align="left">👩‍💻 About Me</h3>
+- ⚙️ **Data Engineering:** Hands-on experience with Python, SQL, ETL/ELT, Airflow, dbt, Spark, and data pipelines.
+- 📈 **Data & Analytics:** Skilled in Power BI, data visualization, KPI monitoring, and turning data into actionable insights.
+- 🛡️ **Data Governance:** Interested in data quality, privacy, governance, compliance, and responsible data management.
+- ☁️ **Cloud & Big Data:** Hands-on exposure to Google Cloud, BigQuery, GCS, Kubernetes, and distributed data processing.
+- 💡 **Goal:** To build scalable, reliable, and well-governed data solutions that create real business value.
 
-###
+---
 
-<p align="left">
-I am an <strong>IT graduate and aspiring Data Engineer</strong> passionate about building reliable data solutions and transforming data into meaningful insights for better decision-making.
-<br><br>
-Through my academic background, professional experience, and Data Engineering training, I have worked across the data lifecycle — from <strong>data collection, cleaning, and transformation to analytics, orchestration, and scalable data processing</strong>.
-</p>
+## 🛠️ Languages & Tools
 
-- ⚙️ <strong>Data Engineering:</strong> Python, SQL, ETL/ELT, Airflow, dbt, Spark, and data pipelines.
-- 📈 <strong>Data & Analytics:</strong> Power BI, data visualization, KPI monitoring, and actionable insights.
-- 🛡️ <strong>Data Governance:</strong> Data quality, privacy, governance, compliance, and responsible data management.
-- ☁️ <strong>Cloud & Big Data:</strong> Google Cloud, BigQuery, GCS, Kubernetes, and distributed data processing.
-- 💡 <strong>Goal:</strong> To build scalable, reliable, and well-governed data solutions that create real business value.
+### 💻 Programming & Databases
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+### 🔄 Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache%20Beam-2C2D72?style=for-the-badge&logo=apache&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 📊 Analytics & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ AeroPulse — Flight Delay Intelligence Platform
+
+A data engineering and analytics project focused on understanding flight delays and the operational factors that influence them.
+
+**Focus:** Data Engineering · Big Data · Aviation Analytics · ETL · Data Visualization
+
+### 🏥 Healthcare Operations Dashboard
+
+A Power BI and Python-based project developed to analyze healthcare operational data, monitor KPIs, and support data-driven decision-making.
+
+**Tools:** Python · Pandas · NumPy · SQL · Power BI
+
+### 🎓 Absence Approval Workflow
+
+A university project designed to digitize the absence and excuse approval process, automate absence tracking, and provide alerts to students.
+
+**Tools:** Laravel · PHP · HTML · CSS · MySQL
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Information Technology**  
+Al-Baha University 🇸🇦
+
+**Data Engineering Bootcamp**  
+SDA × Le Wagon 🇸🇦
+
+*Data Engineering · Cloud Computing · Big Data · Data Pipelines · Distributed Systems*
+
+---
+
+## 📚 Currently Learning
+
+- Data Engineering & Scalable Data Processing
+- Apache Spark & Distributed Computing
+- Data Pipelines & Workflow Orchestration
+- Cloud Data Engineering
+- Data Governance & Data Quality
+
+---
+
+## 📫 Connect With Me
+
+I'm always interested in opportunities, collaborations, and projects related to **Data Engineering, Data Analytics, Data Governance, and Digital Transformation**.
 
 ###
 
