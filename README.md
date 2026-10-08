@@ -1,26 +1,34 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 </div>
-<h1 align="center">hey there 👋</h1>
+
+<h1 align="center">Hi there 👋 I'm Razan</h1>
+
+<h3 align="center">👩‍💻 Data Engineer | Data & Analytics | IT Governance</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">📊 Data Analyst | IT Governance & Strategy | Tech Enthusiast<br> 
+<p align="left">
+I am an <strong>IT graduate and aspiring Data Engineer</strong> passionate about building reliable data solutions and transforming data into meaningful insights for better decision-making.
+<br><br>
+Through my academic background, professional experience, and Data Engineering training, I have worked across the data lifecycle — from <strong>data collection, cleaning, and transformation to analytics, orchestration, and scalable data processing</strong>.
+</p>
 
-I am a **Data Analyst** dedicated to bridging the gap between complex IT infrastructures and strategic decision-making. My expertise lies in transforming raw data into actionable insights while ensuring every byte follows strict **Data Governance** and compliance standards.
-
-- 🛡️ **Governance Focused:** Passionate about Data Privacy, Quality, and Ethics (NDMO/GDPR frameworks).
-- 📈 **Data Driven:** Specialized in SQL, Python, and Power BI to build robust analytical models.
-- ⚙️ **IT Strategy:** Deep understanding of how information technology supports business scalability and risk management.
-- 💡 **Goal:** To build data ecosystems that are not only powerful but also secure, governed, and reliable.
+- ⚙️ <strong>Data Engineering:</strong> Python, SQL, ETL/ELT, Airflow, dbt, Spark, and data pipelines.
+- 📈 <strong>Data & Analytics:</strong> Power BI, data visualization, KPI monitoring, and actionable insights.
+- 🛡️ <strong>Data Governance:</strong> Data quality, privacy, governance, compliance, and responsible data management.
+- ☁️ <strong>Cloud & Big Data:</strong> Google Cloud, BigQuery, GCS, Kubernetes, and distributed data processing.
+- 💡 <strong>Goal:</strong> To build scalable, reliable, and well-governed data solutions that create real business value.
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+###
 
 ###
 
